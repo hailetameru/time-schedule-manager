@@ -1,0 +1,6 @@
+{
+  "name": "Time and Schedule Manager",
+  "description": "An interactive web application for daily scheduling, task tracking, calendar visualization, and productivity reporting, featuring customizable theme colors and real-time audio reminder alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
